@@ -50,6 +50,14 @@
         "type": "link text",
         "value": "Editar perfil"
       }
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "id",
+        "value": "FirstName"
+      },
+      "text": "Arelis"
     }
   ],
   "data": {
